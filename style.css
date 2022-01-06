@@ -1,0 +1,38 @@
+header {
+  height: 100px;
+  background: #2f2f2f;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 80px;
+  width: 80px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h1 {
+  color: aliceblue;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.txt {
+  width: 40%;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.add,
+.search {
+  background-color: rgb(37, 33, 240);
+  color: aliceblue;
+  height: 40px;
+  width: 80px;
+  border: solid 1px;
+}
